@@ -16,8 +16,10 @@ function Acercade() {
         />
         <Carousel.Caption>
         <div className='CentrarInformacion'>
-          <h3 className='tituloAcercade'>Ing en programacion y web master</h3>
-          <p className='NombreAcercade'>Kevin Rafael Guzman Arjona.</p>
+          <h3 className='tituloAcercade'>Kevin Rafael Guzman Arjona</h3>
+          <p className='NombreAcercade'>Ing. en programación y Web Master.</p>
+          <p className='NombreAcercade'>Tecnologias: JavaScript, PHP, CSS, HTML, SQL</p>
+          <p className='NombreAcercade'>Contacto: Kevinprog@gmail.com</p>
         </div>
         </Carousel.Caption>
       </Carousel.Item>
@@ -30,8 +32,10 @@ function Acercade() {
 
         <Carousel.Caption>
         <div className='CentrarInformacion'>
-          <h3 className='tituloAcercade'>Ing en programacion y web master</h3>
-          <p className='NombreAcercade'>Daniel Antonio Saravia Naal</p>
+          <h3 className='tituloAcercade'>Daniel Antonio Saravia Naal</h3>
+          <p className='NombreAcercade'>Ing en programación y Web Master</p>
+          <p className='NombreAcercade'>Tecnologias: JavaScript, PHP, CSS, HTML, SQL</p>
+          <p className='NombreAcercade'>Contacto: danprog@gmail.com</p>
         </div>
         </Carousel.Caption>
       </Carousel.Item>
